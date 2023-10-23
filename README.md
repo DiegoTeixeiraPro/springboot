@@ -6,3 +6,7 @@ Este projeto possibilita a realização de operações CRUD através dos método
 
 Documentação com SpringDoc Swagger:
 http://localhost:8080/swagger-ui/index.html
+
+
+Testes Unitários com JUnit:
+![image](https://github.com/DiegoTeixeiraPro/springboot/assets/119075941/e7ff3839-2e69-4f20-9a3d-c9f4725b2601)
