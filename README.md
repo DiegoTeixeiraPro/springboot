@@ -4,9 +4,18 @@ Projeto pessoal que envolve o desenvolvimento de uma API RESTful, seguindo o Mod
 
 Este projeto possibilita a realização de operações CRUD através dos métodos POST, GET, PUT e DELETE. Adicionei comentários no código para auxiliar. Também disponibilizei a coleção de requisições do Postman (arquivo: Requisições.postman_collection.json) para facilitar os testes. Se houver interesse em testar em sua máquina não esqueça de configurar o seu banco de dados antes de iniciar. 
 
+<br/>
+
 Documentação com SpringDoc Swagger:
 http://localhost:8080/swagger-ui/index.html
+![image](https://github.com/DiegoTeixeiraPro/springboot/assets/119075941/93261d75-3053-4fe2-abc7-79d8046f785a)
 
+<br/>
+
+Requisições com o Postman:
+![image](https://github.com/DiegoTeixeiraPro/springboot/assets/119075941/9c2f3eb5-77b0-4d19-96bc-ca1f334cb645)
+
+<br/>
 
 Testes Unitários com JUnit:
 ![image](https://github.com/DiegoTeixeiraPro/springboot/assets/119075941/e7ff3839-2e69-4f20-9a3d-c9f4725b2601)
